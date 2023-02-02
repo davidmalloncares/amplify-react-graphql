@@ -1,0 +1,12 @@
+{
+  "resourceName": "dmAmplifyStorage",
+  "policyUUID": "905fab44",
+  "bucketName": "amplifyreactgraphqlda2207db2ca7442f8137931ab642",
+  "storageAccess": "auth",
+  "guestAccess": [],
+  "authAccess": [
+    "CREATE_AND_UPDATE", "READ", "DELETE"
+  ],
+  "triggerFunction": "NONE",
+  "groupAccess": {}
+}
